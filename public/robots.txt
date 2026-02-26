@@ -1,0 +1,9 @@
+# Allow all search engines to index the website
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://pulakjainsj.vercel.app/sitemap.xml
+
+# Crawl-delay (optional - helps prevent server overload)
+Crawl-delay: 1
